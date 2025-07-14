@@ -33,19 +33,30 @@ Poképedia is a sleek and responsive mobile app built with **Flutter & Dart**, d
 ## 📸 Screenshots
 
 **1. Login Page :**
+
 <img width="673" height="1028" alt="Screenshot 2025-07-14 214739" src="https://github.com/user-attachments/assets/97c036ac-900d-4d9b-9b7f-c8421be31eea" />
 
-**2. Signup Page : **
+
+
+**2. Signup Page :**
+
 <img width="671" height="1027" alt="Screenshot 2025-07-14 214755" src="https://github.com/user-attachments/assets/c27394ba-6fa1-4cf0-b39f-71b445907e28" />
 
+
 **3. Home Screen :**
+
 <img width="675" height="1029" alt="Screenshot 2025-07-14 214837" src="https://github.com/user-attachments/assets/8417c244-a217-49c7-b9ec-e84282535324" />
 
+
 **4. Details Page :**
+
 <img width="671" height="1033" alt="Screenshot 2025-07-14 214851" src="https://github.com/user-attachments/assets/edd1a722-14eb-4e9b-9d97-1ffb10ae797a" />
 
+
 **5. Firebase Console :**
+
 <img width="1919" height="1140" alt="Screenshot 2025-07-14 214937" src="https://github.com/user-attachments/assets/821b5364-075d-48a4-977d-2425be2e7416" />
+
 <img width="1919" height="1142" alt="Screenshot 2025-07-14 215011" src="https://github.com/user-attachments/assets/af0344cc-73a9-428f-9972-b76e02c677c6" />
 
 
