@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB05M9uT8J65b0746TBM2hIwvtoBoAbaU8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>226813547238</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pokepedia</string>
+	<key>PROJECT_ID</key>
+	<string>pokepedia-34b2a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pokepedia-34b2a.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:226813547238:ios:5a9f33656bf6efbd6d6127</string>
+</dict>
+</plist>
